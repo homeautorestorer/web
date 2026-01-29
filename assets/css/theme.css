@@ -8,6 +8,7 @@
 	--theme-bg-soft: #f3ebdd;
 	--theme-bg-strong: #c9b08c;
 	--theme-bg-dark: rgba(28, 57, 57, 0.96);
+	--theme-overlay-fill: #f3ebdd;
 	--theme-fg: #1c3939;
 	--theme-fg-muted: #6b5c4a;
 	--theme-accent: #8c6a4a;
@@ -56,6 +57,22 @@ code {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
+}
+
+@media screen and (max-width: 980px) {
+	#wrapper > .bg {
+		background-size: contain;
+		background-position: center top;
+		background-color: var(--theme-overlay-fill);
+	}
+}
+
+@media screen and (orientation: portrait) {
+	#wrapper > .bg {
+		background-size: contain;
+		background-position: center top;
+		background-color: var(--theme-overlay-fill);
+	}
 }
 
 /* Intro */
