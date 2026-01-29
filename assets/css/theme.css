@@ -59,6 +59,34 @@ code {
 	background-attachment: scroll;
 }
 
+/* Flickr embed */
+
+.flickr-embed-wrapper {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.flickr-embed-wrapper a,
+.flickr-embed-wrapper img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.flickr-gallery-only .image.main {
+	display: none;
+}
+
+.flickr-embed-wrapper iframe {
+	width: 100% !important;
+	max-width: 100% !important;
+	height: auto;
+}
+
+.flickr-embed-wrapper {
+	overflow: hidden;
+}
+
 @media screen and (max-width: 980px) {
 	#wrapper > .bg {
 		background-size: contain;
