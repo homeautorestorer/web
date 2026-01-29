@@ -52,7 +52,7 @@ code {
 
 #wrapper > .bg {
 	background-color: var(--theme-bg);
-	background-image: url("../../images/IMG_0396.jpg");
+	background-image: url("../../images/img_0396.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
