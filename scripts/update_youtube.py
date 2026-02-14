@@ -18,7 +18,12 @@ def fetch_videos():
     
     try:
         response = requests.get(url)
-        response.raise_for_status()
+        # Check if response is not 200 OK before raising generic error
+        if response.status_code != 200:
+            print(f"Error API YouTube: {response.status_code}")
+            print(response.text) # Imprimir el detalle del error JSON body
+            response.raise_for_status()
+
         data = response.json()
         
         videos = []

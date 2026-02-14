@@ -4712,7 +4712,7 @@ input, select, textarea {
 }
 .carousel-item {
   flex: 0 0 auto;
-  width: 300px;
+  width: 360px;
   transition: transform 0.3s ease;
 }
 .carousel-item:hover {
