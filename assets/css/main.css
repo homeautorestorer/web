@@ -4687,3 +4687,46 @@ input, select, textarea {
 		}
 
 	}
+
+/* Carousel Styles */
+.carousel-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 20px 0;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+.carousel-container::-webkit-scrollbar {
+  height: 8px;
+}
+.carousel-container::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+.carousel-container::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 4px;
+}
+.carousel-container::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+.carousel-item {
+  flex: 0 0 auto;
+  width: 300px;
+  transition: transform 0.3s ease;
+}
+.carousel-item:hover {
+  transform: scale(1.05);
+}
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+.carousel-item h4 {
+  margin-top: 10px;
+  font-size: 0.9em;
+  white-space: normal; /* Allow text to wrap */
+  text-align: center;
+}
