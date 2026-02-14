@@ -11,10 +11,8 @@ async function loadYouTubeVideos() {
         const videos = await response.json();
         
         if (videos && videos.length > 0) {
-            // Mantener el primer elemento (botón de suscripción)
-            const subscribeButton = container.querySelector('.carousel-item:first-child');
+            // Limpiar contenedor antes de añadir los videos
             container.innerHTML = '';
-            if (subscribeButton) container.appendChild(subscribeButton);
 
             videos.forEach(video => {
                 const itemDiv = document.createElement('div');
