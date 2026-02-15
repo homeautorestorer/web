@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://restorer.amorgante.es/sitemap.xml
+Sitemap: https://restorer.amorgante.es/sitemap-video.xml
