@@ -1,0 +1,73 @@
+/* Estilos para el Carrusel de Servicios */
+.services-carousel {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden; /* Ocultar el desbordamiento horizontal */
+}
+
+/* Contenedor de los slides */
+.services-slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out; /* Transición suave */
+    width: 100%; /* Asegura que el contenedor ocupe el ancho disponible */
+}
+
+/* Cada slide individual */
+.service-slide {
+    min-width: 100%; /* Cada slide ocupa el 100% del contenedor visible */
+    box-sizing: border-box;
+}
+
+/* Ajustes de imagen para mantener el tamaño y aspecto */
+.service-slide .image.fit {
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+
+.service-slide .image.fit img {
+    width: 100%;
+    /* Altura fija para igualar todas. Ajustamos a un valor razonable (ej. 500px o max-height) */
+    height: 500px; 
+    /* 'contain' asegura que se vea toda la imagen sin recortar, rellenando huecos si es necesario */
+    object-fit: contain; 
+    background-color: var(--theme-bg-soft); /* Color de fondo acorde al tema */
+    display: block;
+}
+
+
+/* Puntos de navegación (dots) */
+.services-dots {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.dot.active, .dot:hover {
+    background-color: #717171;
+}
+
+/* Animación de desvanecimiento (opcional, si no usamos desplazamiento lateral) */
+/* 
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+*/
