@@ -10,11 +10,7 @@
   <lastmod>2026-02-15T12:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-<url>
-  <loc>https://restorer.amorgante.es/index.html</loc>
-  <lastmod>2026-02-15T12:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+<!-- index.html eliminado para evitar contenido duplicado en ojos de Google -->
 <url>
   <loc>https://restorer.amorgante.es/trabajos/bultacomercurio.html</loc>
   <lastmod>2026-02-15T12:00:00+00:00</lastmod>
