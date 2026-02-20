@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/0O7w8AYvZ3w/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Parte 16 - restaurando depósito de bultaco mercurio 125 de 1962</video:title>
+         <video:description>Esta vez nos ponemos a restaurar el deposito de la bultaco mercurio 125 de 1962. #bultaco #motosclásicas #restorer #diy #taller ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/0O7w8AYvZ3w</video:player_loc>
+         <video:publication_date>2026-02-19T22:13:40Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/XALrqAqQJk0/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Bultaco mercurio 125 1962 #bultaco #automobile #motosclásicas #diy #restorer #taller</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/Yo8ak2J6Kn0</video:player_loc>
          <video:publication_date>2025-07-05T15:53:43Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/m99whMMAUVg/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 6 Desmontar campana embrague bultaco mercurio</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/m99whMMAUVg</video:player_loc>
-         <video:publication_date>2025-07-05T10:57:30Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
