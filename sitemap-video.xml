@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/MTMqI_vMX4Q/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Montaje #2 parte eléctrica bultaco mercurio 125 de 1962 #bultaco  #motosclásicas #restorer</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/MTMqI_vMX4Q</video:player_loc>
+         <video:publication_date>2026-03-14T13:44:25Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/franBhvAcxc/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Montaje #1 Bultaco mercurio 125 de 1962 #bultaco #motosclásicas #restorer</video:title>
          <video:description>Montaje episodio 1 de la restauración de la bultaco mercurio 125 de 1962. Comenzamos con la tija y suspensión delantera.</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/p_00z-eIn8M</video:player_loc>
          <video:publication_date>2025-11-07T17:34:23Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/ZkR_Y14pyYU/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 8 bultaco mercurio 1962</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/ZkR_Y14pyYU</video:player_loc>
-         <video:publication_date>2025-07-22T11:37:10Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
