@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/10cqq3ie_FI/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>24 de abril de 2026</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/10cqq3ie_FI</video:player_loc>
+         <video:publication_date>2026-04-24T16:22:03Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/UMreT20fCdk/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Restauración completa bultaco mercurio de 1962 #bultaco #automobile #motosclásicas #restorer</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Como cerrar el carte de motor sin problemas de la Bultaco Mercurio.</video:description>
          <video:player_loc>https://www.youtube.com/embed/HTFb8lFPCAc</video:player_loc>
          <video:publication_date>2025-11-09T10:40:04Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/nlLiK15YTrE/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 11 - Desmontando lo que queda de la bultaco mercurio de 1962 </video:title>
-         <video:description>Estado lamentable pero poco a poco irá recibiendo mimos.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/nlLiK15YTrE</video:player_loc>
-         <video:publication_date>2025-11-08T09:14:25Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
