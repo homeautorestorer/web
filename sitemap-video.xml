@@ -3,6 +3,36 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/10cqq3ie_FI/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>24 de abril de 2026</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/10cqq3ie_FI</video:player_loc>
+         <video:publication_date>2026-04-24T16:22:03Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/UMreT20fCdk/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Restauración completa bultaco mercurio de 1962 #bultaco #automobile #motosclásicas #restorer</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/UMreT20fCdk</video:player_loc>
+         <video:publication_date>2026-03-28T14:58:03Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/99MPuKCFqHw/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Restauración terminada bultaco mercurio de 1962 #bultaco #motosclásicas #automobile #restorer</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/99MPuKCFqHw</video:player_loc>
+         <video:publication_date>2026-03-27T14:21:33Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/MTMqI_vMX4Q/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Montaje #2 parte eléctrica bultaco mercurio 125 de 1962 #bultaco  #motosclásicas #restorer</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -118,36 +148,6 @@
          <video:description>Como cerrar el carte de motor sin problemas de la Bultaco Mercurio.</video:description>
          <video:player_loc>https://www.youtube.com/embed/HTFb8lFPCAc</video:player_loc>
          <video:publication_date>2025-11-09T10:40:04Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/nlLiK15YTrE/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 11 - Desmontando lo que queda de la bultaco mercurio de 1962 </video:title>
-         <video:description>Estado lamentable pero poco a poco irá recibiendo mimos.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/nlLiK15YTrE</video:player_loc>
-         <video:publication_date>2025-11-08T09:14:25Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/3VksCVEwzEo/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 10 - Proceso completo motor bultaco mercurio 1962</video:title>
-         <video:description>Proceso completo de restauración del motor.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/3VksCVEwzEo</video:player_loc>
-         <video:publication_date>2025-11-07T17:58:36Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/p_00z-eIn8M/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 9 primer arranque casero</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/p_00z-eIn8M</video:player_loc>
-         <video:publication_date>2025-11-07T17:34:23Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
