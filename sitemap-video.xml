@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/KHhUeTTblAI/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Revisión Vespa pk 125 de 1990 #motosclásicas #vespa #vespapk125 #restorer</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/KHhUeTTblAI</video:player_loc>
+         <video:publication_date>2026-05-02T15:40:03Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/10cqq3ie_FI/hqdefault.jpg</video:thumbnail_loc>
          <video:title>24 de abril de 2026</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/CoeDFtYGv14</video:player_loc>
          <video:publication_date>2025-12-24T21:54:47Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/HTFb8lFPCAc/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Bultaco Mercurio - Cerrar carter motor</video:title>
-         <video:description>Como cerrar el carte de motor sin problemas de la Bultaco Mercurio.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/HTFb8lFPCAc</video:player_loc>
-         <video:publication_date>2025-11-09T10:40:04Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
