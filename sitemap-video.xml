@@ -3,6 +3,26 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/EHpyJbL1lK0/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Pegatinas al agua (calcomania). #motosclásicas #restorer #restorer #bultaco #mecanica #tallesteros</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/EHpyJbL1lK0</video:player_loc>
+         <video:publication_date>2026-05-14T17:34:32Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/ptqWbGzfV4g/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpieza carburador con ultrasonidos #motosclásicas #automobile #restorer  #bultaco</video:title>
+         <video:description>Como limpiar un carburador con una limpiadora de ultrasonidos.</video:description>
+         <video:player_loc>https://www.youtube.com/embed/ptqWbGzfV4g</video:player_loc>
+         <video:publication_date>2026-05-14T09:12:52Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/KHhUeTTblAI/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Revisión Vespa pk 125 de 1990 #motosclásicas #vespa #vespapk125 #restorer</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -128,26 +148,6 @@
          <video:description>Restaurando asiento de la bultaco mercurio 125 usando método low cost. Por 8€ y tiempo puedes hacer una funda bien ajustada ...</video:description>
          <video:player_loc>https://www.youtube.com/embed/KN7b9fJTJtQ</video:player_loc>
          <video:publication_date>2026-01-01T19:49:15Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/WH4WiDxAXO8/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 13  Bultaco Mercurio de 1962</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/WH4WiDxAXO8</video:player_loc>
-         <video:publication_date>2025-12-30T22:18:59Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/CoeDFtYGv14/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 12 mercurio bultaco de 1962</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/CoeDFtYGv14</video:player_loc>
-         <video:publication_date>2025-12-24T21:54:47Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
