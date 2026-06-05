@@ -113,26 +113,6 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/1ubUssCKJhw/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Secando depósito después de limpiar todo el óxido!!! #bultaco #motosclásicas #restorer #taller #diy</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/1ubUssCKJhw</video:player_loc>
-         <video:publication_date>2026-02-07T09:26:01Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/4YhDAuRzHyU/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Que hacemos en Home Auto Restorer </video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/4YhDAuRzHyU</video:player_loc>
-         <video:publication_date>2026-01-30T15:13:17Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/eosMAm_qMqk/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Parte 15 - restaurando bultaco mercurio de 1962 #bultaco #Restorer #motosclásicas</video:title>
          <video:description>Esta vez vamos a hacer faros, vamos a construir un porta matrículas y empezamos con los guardabarros.</video:description>
@@ -143,11 +123,31 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/KN7b9fJTJtQ/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 14 - restaurando bultaco mercurio de 1962</video:title>
-         <video:description>Restaurando asiento de la bultaco mercurio 125 usando método low cost. Por 8€ y tiempo puedes hacer una funda bien ajustada ...</video:description>
-         <video:player_loc>https://www.youtube.com/embed/KN7b9fJTJtQ</video:player_loc>
-         <video:publication_date>2026-01-01T19:49:15Z</video:publication_date>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/WH4WiDxAXO8/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Parte 13  Bultaco Mercurio de 1962</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/WH4WiDxAXO8</video:player_loc>
+         <video:publication_date>2025-12-30T22:18:59Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/CoeDFtYGv14/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Parte 12 mercurio bultaco de 1962</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/CoeDFtYGv14</video:player_loc>
+         <video:publication_date>2025-12-24T21:54:47Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/ZkR_Y14pyYU/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Parte 8 bultaco mercurio 1962</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/ZkR_Y14pyYU</video:player_loc>
+         <video:publication_date>2025-07-22T11:37:10Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
