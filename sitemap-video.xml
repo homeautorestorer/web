@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/VKNBf3gSsHg/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Personalizar tu casco #restorer #custommotorcycle #helmet #motosclásicas</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/VKNBf3gSsHg</video:player_loc>
+         <video:publication_date>2026-06-08T18:32:00Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/EHpyJbL1lK0/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Pegatinas al agua (calcomania). #motosclásicas #restorer #restorer #bultaco #mecanica #tallesteros</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Esta vez vamos a hacer faros, vamos a construir un porta matrículas y empezamos con los guardabarros.</video:description>
          <video:player_loc>https://www.youtube.com/embed/eosMAm_qMqk</video:player_loc>
          <video:publication_date>2026-01-22T16:34:33Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/KN7b9fJTJtQ/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 14 - restaurando bultaco mercurio de 1962</video:title>
-         <video:description>Restaurando asiento de la bultaco mercurio 125 usando método low cost. Por 8€ y tiempo puedes hacer una funda bien ajustada ...</video:description>
-         <video:player_loc>https://www.youtube.com/embed/KN7b9fJTJtQ</video:player_loc>
-         <video:publication_date>2026-01-01T19:49:15Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
