@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/XvYRIPZf8P8/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Restauración completa bultaco mercurio 125 de 1962 -  full video </video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/XvYRIPZf8P8</video:player_loc>
+         <video:publication_date>2026-06-14T18:29:27Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/VKNBf3gSsHg/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Personalizar tu casco #restorer #custommotorcycle #helmet #motosclásicas</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/4YhDAuRzHyU</video:player_loc>
          <video:publication_date>2026-01-30T15:13:17Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/eosMAm_qMqk/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Parte 15 - restaurando bultaco mercurio de 1962 #bultaco #Restorer #motosclásicas</video:title>
-         <video:description>Esta vez vamos a hacer faros, vamos a construir un porta matrículas y empezamos con los guardabarros.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/eosMAm_qMqk</video:player_loc>
-         <video:publication_date>2026-01-22T16:34:33Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
