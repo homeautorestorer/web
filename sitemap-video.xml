@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/N5Z2C7f-1ts/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Como abrir tapón gasolina bloqueado #restorer #ducati #ducatiforza restauración</video:title>
+         <video:description>En este video mostraré como he podido abrir el depósito que estaba atascado y bloqueado incluso con la llave original. Muchas ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/N5Z2C7f-1ts</video:player_loc>
+         <video:publication_date>2026-07-03T16:06:48Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/XvYRIPZf8P8/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Restauración completa bultaco mercurio 125 de 1962 -  full video </video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/1ubUssCKJhw</video:player_loc>
          <video:publication_date>2026-02-07T09:26:01Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/4YhDAuRzHyU/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Que hacemos en Home Auto Restorer </video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/4YhDAuRzHyU</video:player_loc>
-         <video:publication_date>2026-01-30T15:13:17Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
