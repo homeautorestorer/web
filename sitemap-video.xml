@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/OdErQvn1-yg/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpiando grifos gasolina ultrasonidos en la restauración de la ducati forza 350 #restorer #ducati</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/OdErQvn1-yg</video:player_loc>
+         <video:publication_date>2026-07-10T20:11:54Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/N5Z2C7f-1ts/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Como abrir tapón gasolina bloqueado #restorer #ducati #ducatiforza restauración</video:title>
          <video:description>En este video mostraré como he podido abrir el depósito que estaba atascado y bloqueado incluso con la llave original. Muchas ...</video:description>
@@ -138,16 +148,6 @@
          <video:description>Proceso de restauración de la bultaco mercurio 125 de 1962. En esta parte 16 niquelamos todas la tornilleria para proteger de la ...</video:description>
          <video:player_loc>https://www.youtube.com/embed/ov_TWHMox7M</video:player_loc>
          <video:publication_date>2026-02-07T16:13:03Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/1ubUssCKJhw/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Secando depósito después de limpiar todo el óxido!!! #bultaco #motosclásicas #restorer #taller #diy</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/1ubUssCKJhw</video:player_loc>
-         <video:publication_date>2026-02-07T09:26:01Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
