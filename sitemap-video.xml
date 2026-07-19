@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/rB4bjrZ8pfA/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Segundo episodio - tratamiento de resina epoxi ducati forza 350 #restorer #ducati</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/rB4bjrZ8pfA</video:player_loc>
+         <video:publication_date>2026-07-18T09:00:40Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/BIjzhFRwOuM/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Limpieza depósito antes de resina epoxi  - restaurando ducati forza 350 #restorer #ducati #restaurar</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Esta vez nos ponemos a restaurar el deposito de la bultaco mercurio 125 de 1962. #bultaco #motosclásicas #restorer #diy #taller ...</video:description>
          <video:player_loc>https://www.youtube.com/embed/0O7w8AYvZ3w</video:player_loc>
          <video:publication_date>2026-02-19T22:13:40Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/XALrqAqQJk0/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Bultaco mercurio 125 1962 #bultaco #automobile #motosclásicas #diy #restorer #taller</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/XALrqAqQJk0</video:player_loc>
-         <video:publication_date>2026-02-12T21:30:29Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
