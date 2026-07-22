@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/f4vYg5s1u8Q/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpiando carburador ducati forza 350 #restauracionmotos #ducati #motosclásicas limpieza carburador</video:title>
+         <video:description>Limpieza del carburador Amal 930 en una Ducati Forza 350 clásica 🏍️ En este Short te muestro el proceso de limpieza y ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/f4vYg5s1u8Q</video:player_loc>
+         <video:publication_date>2026-07-21T17:47:49Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/yejZ9gjovzk/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Restauración ducati forza 350. Malas noticias Óxido #restorer #ducati #restauracionautomotriz #óxido</video:title>
          <video:description>Malas noticias al pensar que el escape estaba bien pero al girar la parte no visible tenía muchísimo óxido...hasta el punto de ...</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/99MPuKCFqHw</video:player_loc>
          <video:publication_date>2026-03-27T14:21:33Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/MTMqI_vMX4Q/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Montaje #2 parte eléctrica bultaco mercurio 125 de 1962 #bultaco  #motosclásicas #restorer</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/MTMqI_vMX4Q</video:player_loc>
-         <video:publication_date>2026-03-14T13:44:25Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
