@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/EQILgd-7n4E/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Día 1 desmontando ducati forza 350 clásica #ducati #automobile #restorer #motosclásicas</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/EQILgd-7n4E</video:player_loc>
+         <video:publication_date>2026-07-22T20:37:54Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/f4vYg5s1u8Q/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Limpiando carburador ducati forza 350 #restauracionmotos #ducati #motosclásicas limpieza carburador</video:title>
          <video:description>Limpieza del carburador Amal 930 en una Ducati Forza 350 clásica 🏍️ En este Short te muestro el proceso de limpieza y ...</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/UMreT20fCdk</video:player_loc>
          <video:publication_date>2026-03-28T14:58:03Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/99MPuKCFqHw/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Restauración terminada bultaco mercurio de 1962 #bultaco #motosclásicas #automobile #restorer</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/99MPuKCFqHw</video:player_loc>
-         <video:publication_date>2026-03-27T14:21:33Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
