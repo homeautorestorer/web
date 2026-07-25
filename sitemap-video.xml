@@ -3,6 +3,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/J9pRg6XsSSg/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Día 2 desmontando cableado ducati forza 350 clásica #ducati #automobile #restorer #motosclásicas</video:title>
+         <video:description>DÍA 2 | Desmontando el cableado eléctrico de la Ducati Forza 350 ⚡🏍️ (Time Lapse) Seguimos con la restauración de esta ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/J9pRg6XsSSg</video:player_loc>
+         <video:publication_date>2026-07-24T17:45:31Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/EQILgd-7n4E/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Día 1 desmontando ducati forza 350 clásica #ducati #automobile #restorer #motosclásicas</video:title>
          <video:description>Video de restauración de Home Auto Restorer</video:description>
@@ -138,16 +148,6 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/10cqq3ie_FI</video:player_loc>
          <video:publication_date>2026-04-24T16:22:03Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/UMreT20fCdk/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Restauración completa bultaco mercurio de 1962 #bultaco #automobile #motosclásicas #restorer</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/UMreT20fCdk</video:player_loc>
-         <video:publication_date>2026-03-28T14:58:03Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
