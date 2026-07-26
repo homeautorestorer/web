@@ -3,6 +3,26 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/b1xPHkT2bkk/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Como tallar una llave virgen si no tengo la original #ducati #restorer #taller #motosclásicas</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/b1xPHkT2bkk</video:player_loc>
+         <video:publication_date>2026-07-25T14:03:46Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/uXn8Z88Cx4M/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Cómo tallar una llave virgen cuando no tengo la original </video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/uXn8Z88Cx4M</video:player_loc>
+         <video:publication_date>2026-07-25T13:40:54Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/J9pRg6XsSSg/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Día 2 desmontando cableado ducati forza 350 clásica #ducati #automobile #restorer #motosclásicas</video:title>
          <video:description>DÍA 2 | Desmontando el cableado eléctrico de la Ducati Forza 350 ⚡🏍️ (Time Lapse) Seguimos con la restauración de esta ...</video:description>
@@ -128,26 +148,6 @@
          <video:description>Como limpiar un carburador con una limpiadora de ultrasonidos.</video:description>
          <video:player_loc>https://www.youtube.com/embed/ptqWbGzfV4g</video:player_loc>
          <video:publication_date>2026-05-14T09:12:52Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/KHhUeTTblAI/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Revisión Vespa pk 125 de 1990 #motosclásicas #vespa #vespapk125 #restorer</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/KHhUeTTblAI</video:player_loc>
-         <video:publication_date>2026-05-02T15:40:03Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/10cqq3ie_FI/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>24 de abril de 2026</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/10cqq3ie_FI</video:player_loc>
-         <video:publication_date>2026-04-24T16:22:03Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
