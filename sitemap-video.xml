@@ -3,16 +3,6 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/9iSyYPAj9Js/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Cómo pulir a espejo #ducati #restorer #restauracionautomotriz #motosclásicas #taller</video:title>
-         <video:description>Consigue un Acabado Espejo Perfecto en Aluminio! | Guía Paso a Paso ¿Quieres restaurar las piezas de tu moto o coche clásico ...</video:description>
-         <video:player_loc>https://www.youtube.com/embed/9iSyYPAj9Js</video:player_loc>
-         <video:publication_date>2026-09-04T09:39:13Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/l9wf5aebfvw/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Cómo pulir a espejo </video:title>
          <video:description>Consigue un Acabado Espejo Perfecto en Aluminio! | Guía Paso a Paso ¿Quieres restaurar las piezas de tu moto o coche clásico ...</video:description>
@@ -148,6 +138,16 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/VKNBf3gSsHg</video:player_loc>
          <video:publication_date>2026-06-08T18:32:00Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/EHpyJbL1lK0/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Pegatinas al agua (calcomania). #motosclásicas #restorer #restorer #bultaco #mecanica #tallesteros</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/EHpyJbL1lK0</video:player_loc>
+         <video:publication_date>2026-05-14T17:34:32Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
