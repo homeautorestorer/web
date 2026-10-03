@@ -83,6 +83,16 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/9iSyYPAj9Js/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Cómo pulir a espejo #ducati #restorer #restauracionautomotriz #motosclásicas #taller</video:title>
+         <video:description>Consigue un Acabado Espejo Perfecto en Aluminio! | Guía Paso a Paso ¿Quieres restaurar las piezas de tu moto o coche clásico ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/9iSyYPAj9Js</video:player_loc>
+         <video:publication_date>2026-09-04T09:39:13Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/l9wf5aebfvw/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Cómo pulir a espejo </video:title>
          <video:description>Consigue un Acabado Espejo Perfecto en Aluminio! | Guía Paso a Paso ¿Quieres restaurar las piezas de tu moto o coche clásico ...</video:description>
@@ -138,16 +148,6 @@
          <video:description>Limpieza del carburador Amal 930 en una Ducati Forza 350 clásica 🏍️ En este Short te muestro el proceso de limpieza y ...</video:description>
          <video:player_loc>https://www.youtube.com/embed/f4vYg5s1u8Q</video:player_loc>
          <video:publication_date>2026-07-21T17:47:49Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/yejZ9gjovzk/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Restauración ducati forza 350. Malas noticias Óxido #restorer #ducati #restauracionautomotriz #óxido</video:title>
-         <video:description>Malas noticias al pensar que el escape estaba bien pero al girar la parte no visible tenía muchísimo óxido...hasta el punto de ...</video:description>
-         <video:player_loc>https://www.youtube.com/embed/yejZ9gjovzk</video:player_loc>
-         <video:publication_date>2026-07-19T18:36:47Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
