@@ -3,6 +3,26 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/LYokOnyUu-c/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpieza de culata y esmerillado de válvulas </video:title>
+         <video:description>ducati #motosclásicas #taller #restauracionautomotriz #mecanicamotos #automobile #restorer.</video:description>
+         <video:player_loc>https://www.youtube.com/embed/LYokOnyUu-c</video:player_loc>
+         <video:publication_date>2026-10-03T13:21:58Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/0AdHbsf2TgM/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpieza culata y esmerillado válvulas #ducati #automobile #motosclásicas #taller #mecanicamotos</video:title>
+         <video:description>Video de restauración de Home Auto Restorer</video:description>
+         <video:player_loc>https://www.youtube.com/embed/0AdHbsf2TgM</video:player_loc>
+         <video:publication_date>2026-10-03T13:20:48Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/P2ZNeQLwbwI/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Desmontar y limpiar bomba de aceite ducati forza 350 </video:title>
          <video:description>Este video enseña como desmontar y limpiar la bomba de aceite de una moto clasica ducati forza 350 mototrans. #ducati ...</video:description>
@@ -128,26 +148,6 @@
          <video:description>DÍA 2 | Desmontando el cableado eléctrico de la Ducati Forza 350 ⚡🏍️ (Time Lapse) Seguimos con la restauración de esta ...</video:description>
          <video:player_loc>https://www.youtube.com/embed/J9pRg6XsSSg</video:player_loc>
          <video:publication_date>2026-07-24T17:45:31Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/EQILgd-7n4E/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Día 1 desmontando ducati forza 350 clásica #ducati #automobile #restorer #motosclásicas</video:title>
-         <video:description>Video de restauración de Home Auto Restorer</video:description>
-         <video:player_loc>https://www.youtube.com/embed/EQILgd-7n4E</video:player_loc>
-         <video:publication_date>2026-07-22T20:37:54Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/f4vYg5s1u8Q/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Limpiando carburador ducati forza 350 #restauracionmotos #ducati #motosclásicas limpieza carburador</video:title>
-         <video:description>Limpieza del carburador Amal 930 en una Ducati Forza 350 clásica 🏍️ En este Short te muestro el proceso de limpieza y ...</video:description>
-         <video:player_loc>https://www.youtube.com/embed/f4vYg5s1u8Q</video:player_loc>
-         <video:publication_date>2026-07-21T17:47:49Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
