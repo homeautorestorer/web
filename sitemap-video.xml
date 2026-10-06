@@ -53,16 +53,6 @@
    <url>
       <loc>https://restorer.amorgante.es/</loc>
       <video:video>
-         <video:thumbnail_loc>https://i.ytimg.com/vi/2hhXcDUYzwA/hqdefault.jpg</video:thumbnail_loc>
-         <video:title>Desmontaje culata y válvulas ducati forza 350 </video:title>
-         <video:description>Desmontaje de la culata de la ducati forza 350 clásica mototrans.</video:description>
-         <video:player_loc>https://www.youtube.com/embed/2hhXcDUYzwA</video:player_loc>
-         <video:publication_date>2026-09-29T13:55:34Z</video:publication_date>
-      </video:video>
-   </url>
-   <url>
-      <loc>https://restorer.amorgante.es/</loc>
-      <video:video>
          <video:thumbnail_loc>https://i.ytimg.com/vi/1PSnMesqilk/hqdefault.jpg</video:thumbnail_loc>
          <video:title>Como arreglar sensor de aceite modificando los bares #ducati #automobile #motosclásicas #taller</video:title>
          <video:description>Como modificar un sensor de aceite modificando los bares. Muchas gracias a Juan del grupo mototrans por la idea.</video:description>
@@ -148,6 +138,16 @@
          <video:description>Video de restauración de Home Auto Restorer</video:description>
          <video:player_loc>https://www.youtube.com/embed/EQILgd-7n4E</video:player_loc>
          <video:publication_date>2026-07-22T20:37:54Z</video:publication_date>
+      </video:video>
+   </url>
+   <url>
+      <loc>https://restorer.amorgante.es/</loc>
+      <video:video>
+         <video:thumbnail_loc>https://i.ytimg.com/vi/f4vYg5s1u8Q/hqdefault.jpg</video:thumbnail_loc>
+         <video:title>Limpiando carburador ducati forza 350 #restauracionmotos #ducati #motosclásicas limpieza carburador</video:title>
+         <video:description>Limpieza del carburador Amal 930 en una Ducati Forza 350 clásica 🏍️ En este Short te muestro el proceso de limpieza y ...</video:description>
+         <video:player_loc>https://www.youtube.com/embed/f4vYg5s1u8Q</video:player_loc>
+         <video:publication_date>2026-07-21T17:47:49Z</video:publication_date>
       </video:video>
    </url>
 </urlset>
